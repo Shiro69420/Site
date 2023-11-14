@@ -1,0 +1,29 @@
+body {
+    color:white; 
+    background-image:url('Images/background.gif'); 
+    background-repeat: repeat;
+    padding-top: 10px;
+}
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: auto;
+    padding-top: 15px;
+}
+.bottomelements {
+    display:block;
+    bottom:0;
+    position:absolute;
+    margin-left:45%;
+    margin-right: 50%;
+}
+.topbar {
+    border-style: solid;
+    border-color: grey;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+a:link, a:visited, a:hover, a:active {color:white; text-decoration: none;}
