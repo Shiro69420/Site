@@ -25,5 +25,8 @@ body {
     border-radius: 5px;
     padding: 5px;
 }
+audio {
+    padding: 5px;
+}
 
 a:link, a:visited, a:hover, a:active {color:white; text-decoration: none;}
