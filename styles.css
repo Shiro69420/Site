@@ -1,11 +1,11 @@
 body {
     color:white; 
-    background-image:url('Images/background.gif'); 
+    background-image:url('Images/tileeeeee.jpg'); 
     background-repeat: repeat;
-    padding-top: 10px;
 }
 main {
-	text-align: center
+	text-align: center;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
 }
 audio {
     padding: 5px;
