@@ -5,7 +5,9 @@ body {
 }
 main {
 	text-align: center;
-	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	margin-left: 10%;
+	margin-right: 10%;
 }
 audio {
     padding: 5px;
