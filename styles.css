@@ -46,5 +46,8 @@ footer {
 img {
 	padding: 5px;
 }
+.favlist {
+	text-align: left;
+}
 
 a:link, a:visited, a:hover, a:active {color:white; text-decoration: none;}
