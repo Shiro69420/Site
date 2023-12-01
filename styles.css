@@ -37,10 +37,14 @@ footer {
 	margin-left:auto;
 	margin-right: auto;
 	text-align: center;
-	bottom: 0%;
+	bottom: 0;
 	right: 0;
 	left: 0;
-	position: absolute;
+	position: relative;
+	padding-top: 125px;
+}
+img {
+	padding: 5px;
 }
 
 a:link, a:visited, a:hover, a:active {color:white; text-decoration: none;}
