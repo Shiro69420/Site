@@ -1,0 +1,53 @@
+body {
+    color:white; 
+    background-image:url('Images/tileeeeee.jpg'); 
+    background-repeat: repeat;
+}
+main {
+	text-align: center;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	margin-left: 10%;
+	margin-right: 10%;
+}
+audio {
+    padding: 5px;
+}
+
+header {
+	display:block;
+	margin-left:auto;
+	margin-right: auto;
+	text-align: center;
+}
+nav {
+	display:block;
+	margin-left:auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 15px;
+}
+nav a {
+	border-style: solid;
+	border-color: grey;
+	border-radius: 5px;
+	padding: 5px;
+}
+footer {
+	display:block;
+	margin-left:auto;
+	margin-right: auto;
+	text-align: center;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	position: relative;
+	padding-top: 125px;
+}
+img {
+	padding: 5px;
+}
+.favlist {
+	text-align: left;
+}
+
+a:link, a:visited, a:hover, a:active {color:white; text-decoration: none;}
